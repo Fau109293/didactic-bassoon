@@ -1,0 +1,8 @@
+emails1: list[str | None] = []
+emails2: list[str] = []
+
+emails1.append("test")
+emails1.append(None)
+
+emails2.append("test")
+emails2.append(None)
